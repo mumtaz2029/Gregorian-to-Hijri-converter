@@ -1,2 +1,2 @@
 # Gregorian-to-Hijri-converter
-Gregorian to Hijri date converter
+Gregorian to Hijri date 
